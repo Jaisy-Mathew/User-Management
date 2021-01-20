@@ -1,0 +1,3 @@
+com\uno\user\controller\UserControllerTest.class
+com\uno\user\serviceimpl\UserServiceImplTest.class
+com\uno\user\controller\UserControllerIntegrationTest.class
